@@ -1,0 +1,10 @@
+.container_btn {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.container_btn > button {
+    margin-right: 10px;
+}
+
+
